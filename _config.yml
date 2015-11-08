@@ -1,0 +1,23 @@
+name: Cindertalk
+favicon: null
+layout_spectrum: 0.7157576098106802
+typography_spectrum: 0.5991589783225209
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8575512275565416
+  lightness: 0.03874887083657086
+  saturation: 0.03348836791701615
+  rhythmicContrast: 0.2624322425108403
+purpose: []
