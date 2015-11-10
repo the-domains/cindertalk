@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cindertalk]]></title>
+        <description><![CDATA[Cindertalk]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 10 Nov 2015 01:23:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cindertalk]]></title>
+            <description><![CDATA[<article><h1>Cindertalk</h1><p>Mutter. Mutter. Mutter.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab6ee9c5-e66a-47a9-8b5b-ca2bc257bf85.jpg"></article>]]></description>
+            <link>undefinedcindertalk/index.html</link>
+            <guid isPermaLink="false">d6c14e2d-a240-45d8-82bd-c9f98c8d6119</guid>
+            <pubDate>Tue, 10 Nov 2015 01:23:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
